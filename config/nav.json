@@ -12,7 +12,7 @@
 						"title": "NewNow",
 						"url": "https://newsnow.busiyi.world",
 						"icon": "https://newsnow.busiyi.world/icon.svg",
-						"description": "热门内容，一网打尽",
+						"description": "",
 						"suffix": false,
 						"is_show": true
 					}
@@ -26,7 +26,7 @@
 						"ori_url": "https://github.com/trending",
 						"url": "https://github.com",
 						"icon": "https://img.fre123.com/i/2023/12/12/65773615a03a5.png",
-						"description": "全球最大的代码托管平台，共享开源项目",
+						"description": "",
 						"suffix": false,
 						"is_show": true
 					},
@@ -35,7 +35,7 @@
 						"ori_url": "https://stackoverflow.com/",
 						"url": "https://stackoverflow.com/",
 						"icon": "https://img.fre123.com/i/2023/12/12/65773ed583ad3.png",
-						"description": "开发者问答社区，解决编程难题",
+						"description": "",
 						"suffix": false,
 						"is_show": true
 					},
@@ -44,7 +44,7 @@
 						"ori_url": "https://www.v2ex.com/?tab=hot",
 						"url": "https://www.v2ex.com",
 						"icon": "https://img.fre123.com/i/2023/12/12/657733214ec3f.png",
-						"description": "程序员社区，分享与讨论",
+						"description": "",
 						"suffix": false,
 						"is_show": true
 					}
@@ -57,7 +57,7 @@
 						"title": "云风的BLOG",
 						"url": "https://blog.codingnow.com/",
 						"icon": "https://blog.codingnow.com/favicon.ico",
-						"description": "思绪来得快去得也快，偶尔会在这里停留",
+						"description": "",
 						"suffix": true,
 						"is_show": true
 					},
@@ -65,63 +65,7 @@
 						"title": "阮一峰的周刊",
 						"url": "https://www.fre123.com/weekly/ruanyifeng_weekly",
 						"icon": "https://img.fre123.com/i/2023/12/07/6570a316b2e86.jpeg",
-						"description": "这里记录每周值得分享的科技内容，周五发布",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "老胡的信息周刊",
-						"url": "https://www.fre123.com/weekly/howie6879_weekly",
-						"icon": "https://img.fre123.com/i/2023/12/07/6570a33fcae2f.jpeg",
-						"description": "记录老胡每周看到的优质资源，包含项目、软件、资料、网站",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "HelloGitHub",
-						"url": "https://www.fre123.com/weekly/hellogithub",
-						"icon": "https://img.fre123.com/i/2023/12/05/656f22c38002e.png",
-						"description": "「HelloGitHub 月刊」分享 GitHub 上有趣、入门级的开源项目，每月 28 号发布最新一期",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "独立开发变现周刊",
-						"url": "https://www.fre123.com/weekly/ezindie",
-						"icon": "https://img.fre123.com/i/2023/12/05/656f421fa8770.png",
-						"description": "独立开发变现相关的技术、工具、交流等，彼此促进成长，快速落地各自的产品，实现持续盈利",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "二丫讲梵",
-						"url": "https://www.fre123.com/weekly/eryajf",
-						"icon": "https://img.fre123.com/i/2023/12/05/656f225463402.png",
-						"description": "周刊内容以运维技术和Go语言周边为主，辅以GitHub上优秀项目或他人优秀经验",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "小棉袄的百味人生",
-						"url": "https://www.fre123.com/weekly/haikuoshijie",
-						"icon": "https://img.fre123.com/i/2023/12/05/656f25ba8b44f.png",
-						"description": "小棉袄的博客，嗅觉浏览器、海阔视界开发者的博客",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "不死鸟月刊分享",
-						"url": "https://www.fre123.com/weekly/businiaofenxiang",
-						"icon": "https://img.fre123.com/i/2023/12/05/656f21aa7baaf.png",
-						"description": "分享为王",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "1Link.Fun",
-						"url": "https://www.fre123.com/weekly/1link_fun",
-						"icon": "https://img.fre123.com/i/2023/12/05/656f20f645b6e.png",
-						"description": "1Link.Fun 科技周刊，每周更新 10 条有趣的链接",
+						"description": "",
 						"suffix": true,
 						"is_show": true
 					}
@@ -130,7 +74,7 @@
 		]
 	},
 	{
-		"group_name": "影视资源",
+		"group_name": "影视动漫",
 		"style": 1,
 		"style_des": "标准风格",
 		"tab_list": [
@@ -142,7 +86,6 @@
 						"title": "注视影视",
 						"url": "https://gaze.run/",
 						"icon": "https://img.fre123.com/i/2023/11/25/6561ae9a7b3d3.png",
-						"description": "在线影视搜索观看网站，颜值鲜艳！",
 						"suffix": true,
 						"is_show": true
 					},
@@ -150,7 +93,6 @@
 						"title": "低端影视",
 						"url": "https://ddys.pro/",
 						"icon": "https://img.fre123.com/i/2023/11/25/6561aeddd0eb6.png",
-						"description": "超清在线视频站",
 						"suffix": true,
 						"is_show": true
 					},
@@ -158,7 +100,6 @@
 						"title": "哔嘀影视",
 						"url": "https://www.bdys10.com/",
 						"icon": "https://img.fre123.com/i/2023/11/25/6561b1775447b.png",
-						"description": "最新电影电视剧免费观看下载！",
 						"suffix": true,
 						"is_show": true
 					},
@@ -166,7 +107,6 @@
 						"title": "LIBVIO",
 						"url": "https://www.libvio.me/",
 						"icon": "https://img.fre123.com/i/2024/01/06/659829e49995c.png",
-						"description": "海外影视资源为主的老牌在线影视资源网站",
 						"suffix": true,
 						"is_show": true
 					},
@@ -174,7 +114,6 @@
 						"title": "NO 视频",
 						"url": "https://www.novipnoad.net/",
 						"icon": "https://img.fre123.com/i/2024/01/06/65983049921a2.png",
-						"description": "主打海外影视剧资源，不负追剧好时光。",
 						"suffix": true,
 						"is_show": true
 					}
@@ -188,7 +127,6 @@
 						"title": "BTNULL 无名小站",
 						"url": "https://www.gying.net/",
 						"icon": "https://img.fre123.com/i/2023/11/25/6561ae014e2de.png",
-						"description": "简单注册下，即可在线观看&下载影视资源，总体体验还是挺良心的",
 						"suffix": true,
 						"is_show": true
 					},
@@ -196,7 +134,6 @@
 						"title": "海盗湾",
 						"url": "https://www.pirateproxy-bay.com/",
 						"icon": "https://img.fre123.com/i/2024/01/05/6597c20198e3b.png",
-						"description": "全世界最大的磁力搜索网站",
 						"suffix": true,
 						"is_show": true
 					},
@@ -204,7 +141,6 @@
 						"title": "音范丝",
 						"url": "https://www.yinfans.me/",
 						"icon": "https://img.fre123.com/i/2023/11/25/6561b0a161eeb.png",
-						"description": "精选 4K 蓝光原盘下载",
 						"suffix": true,
 						"is_show": true
 					},
@@ -212,7 +148,6 @@
 						"title": "不太灵影视",
 						"url": "https://www.2bt0.com/",
 						"icon": "https://img.fre123.com/i/2024/01/06/65983354c2ad9.png",
-						"description": "海外电影电视剧下载",
 						"suffix": true,
 						"is_show": true
 					},
@@ -220,19 +155,11 @@
 						"title": "磁力熊",
 						"url": "https://www.cilixiong.cc/",
 						"icon": "https://img.fre123.com/i/2023/11/25/6561aef0bb22e.png",
-						"description": "磁力电影高清电影下载，豆瓣 Top250 高分高清电影磁力下载",
 						"suffix": true,
 						"is_show": true
 					}
 				]
-			}
-		]
-	},
-	{
-		"group_name": "动漫番剧",
-		"style": 1,
-		"style_des": "标准风格",
-		"tab_list": [
+			},
 			{
 				"tab_name": "在线番剧",
 				
@@ -241,7 +168,6 @@
 						"title": "Bangumi 番组计划",
 						"url": "https://bgm.tv/",
 						"icon": "https://img.fre123.com/i/2023/12/13/657999ff600a4.png",
-						"description": "专注于动漫、音乐、游戏领域，帮助你分享、发现与结识同好的ACG网络",
 						"suffix": true,
 						"is_show": true
 					},
@@ -249,7 +175,6 @@
 						"title": "YuC's AnimeList",
 						"url": "https://yuc.wiki/",
 						"icon": "https://img.fre123.com/i/2023/12/13/65799b5609a6b.png",
-						"description": "新番信息资讯",
 						"suffix": true,
 						"is_show": true
 					},
@@ -257,7 +182,6 @@
 						"title": "AGE 动漫",
 						"url": "https://www.agedm.org/",
 						"icon": "https://img.fre123.com/i/2023/11/25/6561b8413511a.png",
-						"description": "专业的在线动漫网站，动漫免费在线观看，高品质画质，实时更新，追番利器!",
 						"suffix": true,
 						"is_show": true
 					},
@@ -265,7 +189,6 @@
 						"title": "稀饭动漫",
 						"url": "https://dick.xfani.com/",
 						"icon": "https://dick.xfani.com/upload/site/20240308-1/813e41f81d6f85bfd7a44bf8a813f9e5.png",
-						"description": "专业的在线动漫网站，动漫免费在线观看，高品质画质，实时更新，追番利器!",
 						"suffix": true,
 						"is_show": true
 					},
@@ -273,7 +196,6 @@
 						"title": "nyacg",
 						"url": "https://www.nyacg.net",
 						"icon": "https://files.superbed.cn/proxy/7468686c6f26333378737f75717b2f3278737f6f326d6d327f73713375717d7b79335d7b5d5d5f2a6931484a4c5d71757f28666d4650502b682c28702f4b2b566a6c326c727b",
-						"description": "专业的在线动漫网站，动漫免费在线观看，高品质画质，实时更新，追番利器!",
 						"suffix": true,
 						"is_show": true
 					}
@@ -281,13 +203,11 @@
 			},
 			{
 				"tab_name": "番剧下载",
-				
 				"details": [
 					{
 						"title": "蜜柑计划",
 						"url": "https://mikanime.tv/",
 						"icon": "https://img.fre123.com/i/2023/12/13/65799a4e99649.ico",
-						"description": "新一代的动漫下载站",
 						"suffix": true,
 						"is_show": true
 					},
@@ -295,7 +215,6 @@
 						"title": "Browse :: Nyaa",
 						"url": "https://nyaa.si/",
 						"icon": "https://img.fre123.com/i/2023/12/13/65799e1f1ad15.png",
-						"description": "一个番剧下载资源网站",
 						"suffix": true,
 						"is_show": true
 					},
@@ -303,7 +222,6 @@
 						"title": "漫猫动漫",
 						"url": "https://comicat.org/",
 						"icon": "https://img.fre123.com/i/2023/12/14/6579d9c1844d0.jpg",
-						"description": "动画/漫画/游戏/动漫音乐/片源BT分享下载",
 						"suffix": true,
 						"is_show": true
 					},
@@ -311,7 +229,6 @@
 						"title": "末日动漫资源库",
 						"url": "https://share.acgnx.se/",
 						"icon": "https://img.fre123.com/i/2023/12/13/6579d4b28abac.ico",
-						"description": "ACG资源检索下载",
 						"suffix": true,
 						"is_show": true
 					},
@@ -319,7 +236,6 @@
 						"title": "动漫花园",
 						"url": "https://dmhy.org",
 						"icon": "https://img.fre123.com/i/2023/11/25/6561b8ca8d9db.png",
-						"description": "动漫花园是一个动漫爱好者交流的平台，提供最及时全面的动漫资源",
 						"suffix": true,
 						"is_show": true
 					}
@@ -328,7 +244,7 @@
 		]
 	},
 	{
-		"group_name": "书籍资源",
+		"group_name": "书籍音乐",
 		"style": 1,
 		"style_des": "书籍资源",
 		"tab_list": [
@@ -340,7 +256,6 @@
 						"title": "Z-Libray",
 						"url": "https://zh.z-lib.gs",
 						"icon": "https://zh.z-lib.gs/favicon-32x32.svg?v=2",
-						"description": "微信读书提供海量正版书籍、小说、漫画、公众号、听书，多设备同步实现跨屏阅读。与微信好友一起发现更多精品好书，随时交流感想，让阅读不再孤独。",
 						"suffix": false,
 						"is_show": true
 					},
@@ -348,7 +263,6 @@
 						"title": "微信读书",
 						"url": "https://weread.qq.com/",
 						"icon": "https://img.fre123.com/i/2024/02/21/65d4ed7d38bd2.ico",
-						"description": "微信读书提供海量正版书籍、小说、漫画、公众号、听书，多设备同步实现跨屏阅读。与微信好友一起发现更多精品好书，随时交流感想，让阅读不再孤独。",
 						"suffix": false,
 						"is_show": true
 					},
@@ -356,7 +270,6 @@
 						"title": "安娜的档案",
 						"url": "https://zh.annas-archive.org",
 						"icon": "https://img.fre123.com/i/2024/02/22/65d75d4d42da8.png",
-						"description": "世界上最大的开源、开放数据图书馆。不仅是 Sci-Hub, Library Genesis, Z-Library 等站的镜像。",
 						"suffix": false,
 						"is_show": true
 					},
@@ -364,7 +277,19 @@
 						"title": "书格",
 						"url": "https://www.shuge.org/",
 						"icon": "https://img.fre123.com/i/2024/02/22/65d75b2e26a76.ico",
-						"description": "有品格的数字古籍图书馆, 书格, 每个人都能自由地看到我们的文明",
+						"suffix": false,
+						"is_show": true
+					}
+				]
+			},
+			{
+				"tab_name": "无损音乐",
+				"upper_right_corner": {},
+				"details": [
+					{
+						"title": "HiFiNi音乐磁场",
+						"url": "https://hifini.com/",
+						"icon": "https://img.fre123.com/i/2024/01/06/65985edec2184.png",
 						"suffix": false,
 						"is_show": true
 					}
@@ -373,7 +298,7 @@
 		]
 	},
 	{
-		"group_name": "软件工具",
+		"group_name": "软件游戏",
 		"style": 1,
 		"style_des": "标准风格",
 		"tab_list": [
@@ -385,7 +310,6 @@
 						"title": "爱纯净",
 						"url": "http://www.aichunjing.com/",
 						"icon": "https://img.fre123.com/i/2024/01/05/65981c5ad5054.png",
-						"description": "Win纯净镜像，激活工具下载",
 						"suffix": false,
 						"is_show": true
 					},
@@ -393,7 +317,6 @@
 						"title": "果壳剥壳",
 						"url": "https://www.ghxi.com/",
 						"icon": "https://img.fre123.com/i/2023/12/23/6586612f085fb.png",
-						"description": "果核剥壳是一家综合科技站点，看新闻，分享精品、绿色软件，Windows系统",
 						"suffix": false,
 						"is_show": true
 					},
@@ -401,15 +324,6 @@
 						"title": "六音软件",
 						"url": "https://www.sixyin.com/",
 						"icon": "https://img.fre123.com/i/2024/02/23/65d7771b798fe.ico",
-						"description": "西部落软件搜索平台通过收录各类优质的软件下载网站索引，让用户快速找到对的软件的同时，也让用户告别流氓全家桶软件和捆绑安装广告软件的困扰。",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "Wavse",
-						"url": "https://wavse.com/",
-						"icon": "https://img.fre123.com/i/2024/01/05/659817afe54ca.png",
-						"description": "Windows 单机游戏免费下载",
 						"suffix": false,
 						"is_show": true
 					},
@@ -417,7 +331,6 @@
 						"title": "大眼仔旭",
 						"url": "http://www.dayanzai.me/",
 						"icon": "https://img.fre123.com/i/2024/02/23/65d76fbfc5733.ico",
-						"description": "个人非盈利性网站",
 						"suffix": false,
 						"is_show": true
 					}
@@ -431,7 +344,6 @@
 						"title": "MacWk",
 						"url": "https://macwk.cn/",
 						"icon": "https://img.fre123.com/i/2024/02/23/65d774e5d39de.png",
-						"description": "MAC应用软件,每天更新大量精品mac软件,为您提供优质的mac软件,mac破解版软件下载",
 						"suffix": false,
 						"is_show": true
 					},
@@ -439,7 +351,6 @@
 						"title": "Appstorrent",
 						"url": "https://appstorrent.ru/",
 						"icon": "https://img.fre123.com/i/2023/12/14/6579ebbbde7fe.png",
-						"description": "俄罗斯那边的 macOS 软件下载网站，质量不错",
 						"suffix": false,
 						"is_show": true
 					},
@@ -447,7 +358,6 @@
 						"title": "马可菠萝",
 						"url": "https://www.macbl.com/",
 						"icon": "https://img.fre123.com/i/2023/12/14/6579eaec2b275.png",
-						"description": "分享你喜欢的MAC应用",
 						"suffix": false,
 						"is_show": true
 					},
@@ -455,7 +365,6 @@
 						"title": "麦氪搜",
 						"url": "https://www.imacso.com/",
 						"icon": "https://img.fre123.com/i/2023/12/14/6579ea9e3bdf6.png",
-						"description": "致力于分享优秀的Mac应用软件",
 						"suffix": false,
 						"is_show": true
 					},
@@ -463,7 +372,6 @@
 						"title": "MacYY",
 						"url": "https://www.macyy.cn/",
 						"icon": "https://img.fre123.com/i/2023/12/14/6579eb594c1c7.png",
-						"description": "Mac破解软件分享中心",
 						"suffix": false,
 						"is_show": true
 					},
@@ -471,7 +379,6 @@
 						"title": "PoMac",
 						"url": "https://www.pomac.cc/",
 						"icon": "https://img.fre123.com/i/2023/12/14/6579ea5e7a3cb.png",
-						"description": "精品Mac软件下载站",
 						"suffix": false,
 						"is_show": true
 					},
@@ -479,7 +386,6 @@
 						"title": "Macked",
 						"url": "https://macked.app/",
 						"icon": "https://img.fre123.com/i/2024/02/22/65d76e5f48696.png",
-						"description": "一个免费的精品MAC软件下载网站",
 						"suffix": false,
 						"is_show": true
 					},
@@ -487,7 +393,6 @@
 						"title": "黑苹果屋",
 						"url": "https://imacos.top/",
 						"icon": "https://img.fre123.com/i/2024/02/22/65d76c05bfa76.png",
-						"description": "黑苹果单双系统安装教程资源软件下载",
 						"suffix": false,
 						"is_show": true
 					},
@@ -495,7 +400,6 @@
 						"title": "马克喵",
 						"url": "https://www.macat.vip/",
 						"icon": "https://img.fre123.com/i/2024/02/22/65d76cd316340.png",
-						"description": "全网最新破解MAC软件",
 						"suffix": false,
 						"is_show": true
 					},
@@ -503,7 +407,6 @@
 						"title": "Cmacked",
 						"url": "https://cmacked.com/",
 						"icon": "https://img.fre123.com/i/2024/02/22/65d76dd87feef.ico",
-						"description": "一个在线免费Mac软件下载网站",
 						"suffix": false,
 						"is_show": true
 					},
@@ -511,28 +414,35 @@
 						"title": "MacAPP 分享频道 🪜",
 						"url": "https://macapp.org.cn/",
 						"icon": "https://img.fre123.com/i/2023/12/14/6579ea029f70f.jpg",
-						"description": "精品Mac软件分享 🪜",
 						"suffix": false,
 						"is_show": true
 					}
 				]
-			}
-		]
-	},
-	{
-		"group_name": "资源下载",
-		"style": 1,
-		"style_des": "在线音乐",
-		"tab_list": [
+			},
 			{
-				"tab_name": "音乐下载",
+				"tab_name": "游戏专区",
 				"upper_right_corner": {},
 				"details": [
 					{
-						"title": "HiFiNi音乐磁场",
-						"url": "https://hifini.com/",
-						"icon": "https://img.fre123.com/i/2024/01/06/65985edec2184.png",
-						"description": "音乐爱好者维护的无损音乐免费下载平台",
+						"title": "Steam",
+						"url": "https://store.steampowered.com/",
+						"icon": "https://store.steampowered.com/favicon.ico",
+						"description": "",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "fitgirl",
+						"url": "https://fitgirl-repacks.site/",
+						"icon": "https://fitgirl-repacks.site/favicon.ico",
+						"description": "",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "Wavse",
+						"url": "https://wavse.com/",
+						"icon": "https://img.fre123.com/i/2024/01/05/659817afe54ca.png",
 						"suffix": false,
 						"is_show": true
 					}
@@ -553,7 +463,6 @@
 						"title": "必应壁纸",
 						"url": "http://bimg.top/",
 						"icon": "https://img.fre123.com/i/2024/01/17/65a6b3015eba0.png",
-						"description": "超高质量的必应壁纸与必应美图，你可以查看每日精彩的官方必应壁纸，查看明天必应壁纸，也可下载必应4k壁纸，获取必应壁纸api,下载必应手机壁纸和进行必应壁纸投稿。",
 						"suffix": false,
 						"is_show": true
 					},
@@ -561,7 +470,6 @@
 						"title": "WallpaperCave",
 						"url": "https://wallpapercave.com/",
 						"icon": "https://img.fre123.com/i/2024/01/17/65a6bc92d513b.png",
-						"description": "大量高清壁纸和背景图像可以免费下载。你也可以上传和分享你最喜欢壁纸",
 						"suffix": false,
 						"is_show": true
 					},
@@ -569,7 +477,6 @@
 						"title": "WallpapersCraft",
 						"url": "https://wallpaperscraft.com/",
 						"icon": "https://img.fre123.com/i/2024/01/17/65a6bb13b331b.ico",
-						"description": "支持 PC 和 Mac、笔记本电脑、平板电脑、手机的分辨率，各类壁纸、高清背景",
 						"suffix": false,
 						"is_show": true
 					},
@@ -577,7 +484,6 @@
 						"title": "Pixabay",
 						"url": "https://pixabay.com/zh/",
 						"icon": "https://img.fre123.com/i/2024/01/17/65a6b85f8f3ea.png",
-						"description": "寻找完美的免版税图片或视频，下载之后使用。 ✓ 免版税 ✓ 不要求署名 ✓ 高质量图片.",
 						"suffix": false,
 						"is_show": true
 					},
@@ -585,7 +491,6 @@
 						"title": "Unsplash",
 						"url": "https://unsplash.com/",
 						"icon": "https://img.fre123.com/i/2024/01/17/65a6b8a169bba.png",
-						"description": "漂亮、免费的图片和照片，您可以下载并用于任何项目。比任何免版税或库存照片都要好。",
 						"suffix": false,
 						"is_show": true
 					},
@@ -594,7 +499,6 @@
 						"title": "StockSnap",
 						"url": "https://stocksnap.io/",
 						"icon": "https://img.fre123.com/i/2024/01/17/65a6c3c1cddc3.png",
-						"description": "号称第一的免费精美图片分享站，可商用，完全免费",
 						"suffix": false,
 						"is_show": false
 					},
@@ -603,7 +507,6 @@
 						"title": "GameWallpapers",
 						"url": "https://www.gamewallpapers.com/",
 						"icon": "https://img.fre123.com/i/2024/01/17/65a6bb871013f.ico",
-						"description": "Xbox One、PlayStation 4(PS4)和任天堂WiiU@1080p、1440p、4k的最新PC和视频游戏的桌面或移动背景独家游戏壁纸",
 						"suffix": false,
 						"is_show": true
 					},
@@ -612,15 +515,12 @@
 						"title": "极简壁纸",
 						"url": "https://bz.zzzmh.cn/",
 						"icon": "https://img.fre123.com/i/2024/01/17/65a6ba9a0672f.png",
-						"description": "极简壁纸,4k高清电脑桌面壁纸图库,海量4k电脑壁纸,壁纸网站,美女,动漫,风景,4k高清,4k超清,电脑壁纸桌面",
 						"suffix": false,
 						"is_show": true
 					},
 					{
 						"title": "轻壁纸",
 						"url": "https://qingbizhi.com/",
-						"icon": "https://img.fre123.com/i/2024/01/17/65a6b51cce8c6.jpg",
-						"description": "轻壁纸是一个免费高清4K电脑壁纸分享站，专注分享精美高分辨率横屏电脑壁纸、4K高清壁纸！提供免费壁纸下载！",
 						"suffix": false,
 						"is_show": true
 					},
@@ -628,7 +528,6 @@
 						"title": "1001FreeDownloads",
 						"url": "https://www.1001freedownloads.com/free-wallpapers/",
 						"icon": "https://img.fre123.com/i/2024/01/17/65a6c61683164.png",
-						"description": "1001FreeDownloads 支持免费下载照片、壁纸等",
 						"suffix": false,
 						"is_show": false
 					},
@@ -636,7 +535,6 @@
 						"title": "壁纸汇",
 						"url": "https://www.bizhihui.com/",
 						"icon": "https://img.fre123.com/i/2024/01/17/65a6c759db682.ico",
-						"description": "壁纸汇提供丰富的手机壁纸，动漫壁纸，电脑壁纸、桌面壁纸等火爆好看的高清4K壁纸图片下载。包含电脑壁纸、手机壁纸设备的不同尺寸以及自定义下载壁纸图片，免费下载方便快捷，欢迎收藏分享~",
 						"suffix": false,
 						"is_show": true
 					},
@@ -644,7 +542,6 @@
 						"title": "anime",
 						"url": "https://anime-pictures.net/",
 						"icon": "https://img.fre123.com/i/2024/01/17/65a6b5b26508a.ico",
-						"description": "免费搜索动漫图片和壁纸，包含超过700,000张图片",
 						"suffix": false,
 						"is_show": true
 					},
@@ -652,7 +549,6 @@
 						"title": "3G 壁纸",
 						"url": "https://www.3gbizhi.com/",
 						"icon": "https://img.fre123.com/i/2024/01/17/65a6c8cf4acc4.png",
-						"description": "3G壁纸网免费提供各类高清好看的手机壁纸图片下载.同时增加了桌面壁纸图片,图片大全，明星图片大全,性感美女图片大全等好看的图片栏目分享与下载-三桌图片网，收录分享生活的美。",
 						"suffix": false,
 						"is_show": true
 					},
@@ -660,7 +556,6 @@
 						"title": "拾光壁纸",
 						"url": "https://snake.timeline.ink/home",
 						"icon": "https://img.fre123.com/i/2024/02/18/65d21ec12048f.png",
-						"description": "拾光壁纸：干净、舒适、流畅的桌面壁纸网站。可在微软商店下载其桌面版本，以获得完整体验，如自动更换壁纸。",
 						"suffix": false,
 						"is_show": true
 					}

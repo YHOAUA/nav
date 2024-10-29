@@ -80,4 +80,40 @@ onMounted(() => {
 	opacity: 0;
 	// transform: translateY(-10px);
 }
+
+.index-nav-group {
+    padding: 20px; // 添加内边距
+    background-color: #f9f9f9; // 背景色
+    border-radius: 8px; // 圆角
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); // 整体阴影
+}
+
+@media (max-width: 768px) {
+    .index-nav-group-content-item {
+        flex-direction: column; // 在小屏幕上垂直排列
+        align-items: center; // 居中对齐
+    }
+}
+
+.index-nav-group-content-item {
+    border: 1px solid #e0e0e0; // 添加边框
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); // 添加阴影
+    transition: transform 0.3s ease, background-color 0.3s ease; // 平滑过渡
+}
+
+.index-nav-group-content-item:hover {
+    transform: translateY(-4px); // 悬停时上移
+    background-color: rgba(0, 149, 255, 0.1); // 悬停时背景色变化
+}
+
+.index-nav-group-content-item-name {
+    font-size: 16px; // 增大字体
+    font-weight: bold; // 加粗字体
+    color: #333; // 深色文本
+}
+
+.index-nav-group-content-item-desc {
+    font-size: 12px; // 保持小字体
+    color: #757575; // 使用更柔和的颜色
+}
 </style>
