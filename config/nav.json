@@ -5,7 +5,7 @@
 		"style_des": "标准风格",
 		"tab_list": [
 			{
-				"tab_name": "新闻热点",
+				"tab_name": "新闻异事",
 				
 				"details": [
 					{
@@ -186,7 +186,7 @@
 				"details": [
 					{
 						"title": "BTNULL 无名小站",
-						"url": "https://www.btnull.org",
+						"url": "https://www.gying.net/",
 						"icon": "https://img.fre123.com/i/2023/11/25/6561ae014e2de.png",
 						"description": "简单注册下，即可在线观看&下载影视资源，总体体验还是挺良心的",
 						"suffix": true,
@@ -265,6 +265,14 @@
 						"title": "稀饭动漫",
 						"url": "https://dick.xfani.com/",
 						"icon": "https://dick.xfani.com/upload/site/20240308-1/813e41f81d6f85bfd7a44bf8a813f9e5.png",
+						"description": "专业的在线动漫网站，动漫免费在线观看，高品质画质，实时更新，追番利器!",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "nyacg",
+						"url": "https://www.nyacg.net",
+						"icon": "https://files.superbed.cn/proxy/7468686c6f26333378737f75717b2f3278737f6f326d6d327f73713375717d7b79335d7b5d5d5f2a6931484a4c5d71757f28666d4650502b682c28702f4b2b566a6c326c727b",
 						"description": "专业的在线动漫网站，动漫免费在线观看，高品质画质，实时更新，追番利器!",
 						"suffix": true,
 						"is_show": true
@@ -521,99 +529,10 @@
 				"upper_right_corner": {},
 				"details": [
 					{
-						"title": "熊猫无损音乐",
-						"url": "https://www.xmwav.com/",
-						"icon": "https://img.fre123.com/i/2024/02/21/65d613a53f5bd.ico",
-						"description": "熊猫无损音乐免费下载网站[www.xmwav.com],一个免费分享无损音乐WAV|MP3格式的网站,为广大音乐爱好者提供音乐交流及资源分享平台。每首无损音乐都是精心挑选，最全免费的无损音乐下载网站。",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "魅力音乐",
-						"url": "https://www.meiliyizu.com/",
-						"icon": "https://img.fre123.com/i/2024/01/06/65985ec12f5b5.png",
-						"description": "无损音乐免费下载",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "下歌吧",
-						"url": "https://xiageba.com/",
-						"icon": "https://img.fre123.com/i/2024/01/06/65985e7b78bbd.png",
-						"description": "高品质无损音乐网盘下载",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "Free MP3 Download",
-						"url": "https://free-mp3-download.net/",
-						"icon": "https://img.fre123.com/i/2024/01/06/65985e8fcc35f.png",
-						"description": "免费全网无损音乐下载工具",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "音乐仓库",
-						"url": "https://www.cangkus.com/music",
-						"icon": "https://img.fre123.com/i/2024/01/06/65985ea83e830.png",
-						"description": "一个无损音乐资源分享网站",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "无损音乐网",
-						"url": "https://www.sq0527.cn/",
-						"icon": "https://img.fre123.com/i/2024/01/30/65b7dc73060ad.ico",
-						"description": "无损音乐网-Mp3歌曲免费下载,MP3免费下载,音乐免费下载.收录了网上最新歌曲和流行音乐,网络歌曲,好听的歌,非主流音乐,经典老歌,搞笑歌曲,英文歌曲等。是您寻找好听的歌首选网站。",
-						"suffix": false,
-						"is_show": true
-					},
-					{
 						"title": "HiFiNi音乐磁场",
 						"url": "https://hifini.com/",
 						"icon": "https://img.fre123.com/i/2024/01/06/65985edec2184.png",
 						"description": "音乐爱好者维护的无损音乐免费下载平台",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "MusicEnc",
-						"url": "https://www.musicenc.com/",
-						"icon": "https://img.fre123.com/i/2024/01/06/65985f26eb75f.png",
-						"description": "可以搜索试听歌曲，可保存音乐",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "猫耳FM",
-						"url": "https://www.missevan.com/sound/m/8",
-						"icon": "https://img.fre123.com/i/2024/01/06/65985f5f48f53.jpg",
-						"description": "M站(猫耳FM)是第一家弹幕音图站,同时也是中国声优基地,在这里可以听电台,音乐,翻唱,小说和广播剧,用二次元声音连接三次元.",
-						"suffix": false,
-						"is_show": false
-					},
-					{
-						"title": "YesPlayMusic",
-						"url": "https://music.qier222.com/",
-						"icon": "https://img.fre123.com/i/2024/01/06/65985f3e10a54.png",
-						"description": "最好用的第三方网易云客户端，自动解锁变灰歌曲",
-						"suffix": false,
-						"is_show": false
-					},
-					{
-						"title": "Lofi ICU音乐",
-						"url": "https://lofi.icu/",
-						"icon": "https://img.fre123.com/i/2024/01/06/65985f702d0bc.jpg",
-						"description": "一个提供高保真音乐和现场广播流精选的网站",
-						"suffix": false,
-						"is_show": true
-					},
-
-					{
-						"title": "dtshot",
-						"url": "https://www.dtshot.com/songs",
-						"icon": "https://img.fre123.com/i/2024/01/09/659c3f53de424.ico",
-						"description": "DTSHOT为您收集最新最全的免费无损音乐下载。flac、ape、wav、dsd、dts等格式的无损音乐，每日为您提供最新最全的无损音乐！",
 						"suffix": false,
 						"is_show": true
 					}
@@ -622,12 +541,12 @@
 		]
 	},
 	{
-		"group_name": "图片壁纸",
+		"group_name": "设计资源",
 		"style": 1,
 		"style_des": "图片壁纸",
 		"tab_list": [
 			{
-				"tab_name": "免费壁纸",
+				"tab_name": "高清壁纸",
 				"upper_right_corner": {},
 				"details": [
 					{

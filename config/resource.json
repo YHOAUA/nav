@@ -26,12 +26,6 @@
 				"url": "https://devv.ai/zh/search/{keyword}",
 				"icon": "https://img.fre123.com/i/2024/01/25/65b26106a8645.png",
 				"is_show": true
-			},
-			{
-				"name": "nona",
-				"url": "https://www.nona.de?q={keyword}",
-				"icon": "https://img.fre123.com/i/2024/01/22/65ae2b62e27c0.png",
-				"is_show": false
 			}
 		]
 	},
@@ -73,6 +67,12 @@
 				"name": "AGE 动漫",
 				"url": "https://www.agedm.org/search?query={keyword}",
 				"icon": "https://img.fre123.com/i/2023/11/25/6561b8413511a.png",
+				"is_show": true
+			},
+			{
+				"name": "nyacg",
+				"url": "https://www.nyacg.net/search/wd/{keyword}",
+				"icon": "https://files.superbed.cn/proxy/7468686c6f26333378737f75717b2f3278737f6f326d6d327f73713375717d7b79335d7b5d5d5f2a6931484a4c5d71757f28666d4650502b682c28702f4b2b566a6c326c727b",
 				"is_show": true
 			},
 			{
