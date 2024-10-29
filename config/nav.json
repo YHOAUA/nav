@@ -6,209 +6,21 @@
 		"tab_list": [
 			{
 				"tab_name": "新闻热点",
-				"upper_right_corner": {
-					"title": "热榜资讯汇总>>>",
-					"url": "https://www.fre123.com/news"
-				},
+				
 				"details": [
 					{
-						"title": "FRE123 新闻热榜",
-						"ori_url": "https://www.fre123.com/news",
-						"url": "https://www.fre123.com/news",
-						"icon": "https://img.fre123.com/i/2024/01/18/65a81a0370405.jpg",
-						"description": "FRE123 新闻热榜汇集各平台技术热点资讯，助您快速了解实时资讯",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "FRE123 技术热榜",
-						"ori_url": "https://www.fre123.com/tech",
-						"url": "https://www.fre123.com/tech",
-						"icon": "https://img.fre123.com/i/2024/01/18/65a819ea7d80f.jpg",
-						"description": "FRE123 技术热榜汇集各平台技术热点资讯，助您快速了解实时资讯",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "FRE123 精选周刊",
-						"ori_url": "https://www.fre123.com/weekly",
-						"url": "https://www.fre123.com/weekly",
-						"icon": "https://img.fre123.com/i/2024/01/18/65a81a125a343.jpg",
-						"description": "这是老胡储物柜为您收集的前后端技术周刊精选推荐信息流。这里提供技术思考、开发指南、编程实践，开源项目，架构探索以及最新的周刊信息流。深耕你的编程知识，提升你的技术实力",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "微博热搜",
-						"ori_url": "https://s.weibo.com/top/summary",
-						"url": "https://www.fre123.com/news/weibo",
-						"icon": "https://img.fre123.com/i/2023/12/05/656f27339b3b8.png",
-						"description": "与世界分享你的瞬间 ",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "今日头条",
-						"ori_url": "https://www.toutiao.com/",
-						"url": "https://www.fre123.com/news/toutiao",
-						"icon": "https://img.fre123.com/i/2023/12/05/656f276c1711f.png",
-						"description": "个性化资讯推荐",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "抖音热点",
-						"ori_url": "https://www.douyin.com/hot",
-						"url": "https://www.fre123.com/news/douyin",
-						"icon": "https://img.fre123.com/i/2023/12/05/656f27e4dccaa.png",
-						"description": "发现身边的新鲜事",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "腾讯新闻",
-						"ori_url": "https://news.qq.com/",
-						"url": "https://www.fre123.com/news/teng_xun_xin_wen",
-						"icon": "https://img.fre123.com/i/2023/12/05/656f2809bfa0f.png",
-						"description": "中国最大新闻平台",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "微信热文",
-						"ori_url": "https://tophub.today/n/WnBe01o371",
-						"url": "https://www.fre123.com/news/douywei_xin_re_wenin",
-						"icon": "https://img.fre123.com/i/2023/12/05/656f469aecf87.png",
-						"description": "热门文章与资讯推荐",
-						"suffix": false,
-						"is_show": false
-					},
-					{
-						"title": "ReadHub",
-						"ori_url": "https://readhub.cn/",
-						"url": "https://www.fre123.com/news/readhub",
-						"icon": "https://img.fre123.com/i/2023/12/05/656f410bee9c5.png",
-						"description": "全球科技新闻聚合",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "抽屉热榜",
-						"ori_url": "https://dig.chouti.com/",
-						"url": "https://www.fre123.com/news/chouti",
-						"icon": "https://img.fre123.com/i/2023/12/07/65716d24e228f.png",
+						"title": "NewNow",
+						"url": "https://newsnow.busiyi.world",
+						"icon": "https://newsnow.busiyi.world/icon.svg",
 						"description": "热门内容，一网打尽",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "百度热搜",
-						"ori_url": "https://top.baidu.com/board",
-						"url": "https://www.fre123.com/news/baidu",
-						"icon": "https://img.fre123.com/i/2023/12/05/656f27c6a0285.png",
-						"description": "百度热搜以数亿用户海量的真实数据为基础，通过专业的数据挖掘方法，计算关键词的热搜指数，旨在建立权威、全面、热门、时效的各类关键词排行榜，引领热词阅读时代。",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "新浪新闻",
-						"ori_url": "https://www.sina.com.cn/",
-						"url": "https://www.fre123.com/news/xin_lang_xin_wen",
-						"icon": "https://img.fre123.com/i/2023/12/05/656f27339b3b8.png",
-						"description": "中文新闻综合门户",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "网易热榜",
-						"ori_url": "https://news.163.com/",
-						"url": "https://www.fre123.com/news/163_news",
-						"icon": "https://img.fre123.com/i/2023/12/07/6570a591763a0.jpg",
-						"description": "新闻与资讯平台",
-						"suffix": false,
-						"is_show": false
-					},
-					{
-						"title": "知乎精选",
-						"ori_url": "https://www.zhihu.com/billboard",
-						"url": "https://www.fre123.com/news/zhihu_jing_xuan",
-						"icon": "https://img.fre123.com/i/2023/12/05/656f2f1be65bf.png",
-						"description": "知识问答与热门话题",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "哔哩哔哩",
-						"ori_url": "https://www.bilibili.com/v/popular/all/",
-						"url": "https://www.fre123.com/news/bilibili",
-						"icon": "https://img.fre123.com/i/2023/12/06/656f51c78c7db.png",
-						"description": "弹幕视频，二次元文化",
-						"suffix": false,
-						"is_show": false
-					},
-					{
-						"title": "36氪",
-						"ori_url": "https://36kr.com/",
-						"url": "https://www.fre123.com/news/36kr",
-						"icon": "https://img.fre123.com/i/2023/12/05/656f27b9ecfcb.png",
-						"description": "创业与科技新闻，洞察商业价值",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "爱范儿",
-						"ori_url": "https://www.ifanr.com/",
-						"url": "https://www.fre123.com/news/ifanr",
-						"icon": "https://img.fre123.com/i/2023/12/05/656f28335cfd0.png",
-						"description": "科技与数码生活，热爱创新",
-						"suffix": false,
-						"is_show": false
-					},
-					{
-						"title": "IT之家",
-						"ori_url": "https://www.ithome.com/list/",
-						"url": "https://www.fre123.com/news/ithome",
-						"icon": "https://img.fre123.com/i/2023/12/05/656f2746dca0f.png",
-						"description": "科技新闻与评测专家",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "澎湃新闻",
-						"ori_url": "https://www.thepaper.cn/",
-						"url": "https://www.fre123.com/news/thepaper",
-						"icon": "https://img.fre123.com/i/2023/12/05/656f27acb144c.png",
-						"description": "独立、深度、观点",
-						"suffix": false,
-						"is_show": false
-					},
-					{
-						"title": "虎嗅资讯",
-						"ori_url": "https://www.huxiu.com/article/",
-						"url": "https://www.fre123.com/news/huxiu",
-						"icon": "https://img.fre123.com/i/2023/12/05/656f277d17855.png",
-						"description": "商业观察与创新洞察",
 						"suffix": false,
 						"is_show": true
 					}
 				]
 			},
 			{
-				"upper_right_corner": {
-					"title": "技术资讯汇总>>>",
-					"url": "https://www.fre123.com/tech"
-				},
 				"tab_name": "技术资讯",
 				"details": [
-					{
-						"title": "Hacker News",
-						"ori_url": "https://news.ycombinator.com/",
-						"url": "https://www.fre123.com/tech/ycombinator",
-						"icon": "https://img.fre123.com/i/2023/12/12/657738fb0da11.png",
-						"description": "程序员和创业者的热门新闻网站",
-						"suffix": false,
-						"is_show": true
-					},
 					{
 						"title": "Github",
 						"ori_url": "https://github.com/trending",
@@ -262,86 +74,10 @@
 						"description": "程序员社区，知识交流平台",
 						"suffix": false,
 						"is_show": true
-					},
-					{
-						"title": "CSDN",
-						"ori_url": "https://blog.csdn.net/rank/list",
-						"url": "https://www.fre123.com/tech/csdnnews",
-						"icon": "https://img.fre123.com/i/2023/12/12/65773339badda.png",
-						"description": "IT技术社区，知识传播平台",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "开源中国",
-						"ori_url": "https://www.oschina.net/news",
-						"url": "https://www.fre123.com/tech/oschina_news",
-						"icon": "https://img.fre123.com/i/2023/12/12/65773357604e7.png",
-						"description": "开源技术社区，共享创新精神",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "Segmentfault",
-						"ori_url": "https://segmentfault.com/news",
-						"url": "https://www.fre123.com/tech/segmentfault_news",
-						"icon": "https://img.fre123.com/i/2023/12/12/6577354f59e5d.png",
-						"description": "开发者问答社区，解决问题互助",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "InfoQ",
-						"ori_url": "https://www.infoq.cn/",
-						"url": "https://www.fre123.com/tech/infoq",
-						"icon": "https://img.fre123.com/i/2023/12/12/65773588b7b52.png",
-						"description": "技术资讯平台，深度洞察行业动态",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "机器之心",
-						"ori_url": "https://www.jiqizhixin.com/",
-						"url": "https://www.fre123.com/tech/jiqizhixin",
-						"icon": "https://img.fre123.com/i/2023/12/12/657741a779223.png",
-						"description": "人工智能科技媒体，探索智能世界",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "量子位",
-						"ori_url": "https://www.qbitai.com/category/%e8%b5%84%e8%ae%af",
-						"url": "https://www.fre123.com/tech/qbitai",
-						"icon": "https://img.fre123.com/i/2023/12/12/6577368408291.png",
-						"description": "科技资讯平台，前沿科技动态解读",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "湾区日报",
-						"ori_url": "https://www.wanqu.co/",
-						"url": "https://www.fre123.com/tech/wanqu",
-						"icon": "https://img.fre123.com/i/2023/12/12/65773eb7cded4.png",
-						"description": "科技创新资讯，关注湾区科技动态",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "小众软件",
-						"ori_url": "https://www.appinn.com/",
-						"url": "https://www.fre123.com/tech/appinn",
-						"icon": "https://img.fre123.com/i/2023/12/12/65773dd163b37.jpeg",
-						"description": "探索独特应用，发现小众精品软件",
-						"suffix": false,
-						"is_show": true
 					}
 				]
 			},
 			{
-				"upper_right_corner": {
-					"title": "精选周刊大全>>>",
-					"url": "https://www.fre123.com/weekly"
-				},
 				"tab_name": "技术周刊",
 				"details": [
 					{
@@ -448,23 +184,6 @@
 						"description": "前端技术周刊",
 						"suffix": true,
 						"is_show": true
-					},
-
-					{
-						"title": "Python 潮流周刊",
-						"url": "https://www.fre123.com/weekly/pythoncat_weekly",
-						"icon": "https://img.fre123.com/i/2023/12/05/656f23ae79f38.png",
-						"description": "Python技术周刊",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "Web 技术周刊",
-						"url": "https://www.fre123.com/weekly/fe_weekly",
-						"icon": "https://img.fre123.com/i/2023/12/05/656f2543dff40.png",
-						"description": "汇总平时看到的好文章，前端技术 & 产品研发为主",
-						"suffix": true,
-						"is_show": true
 					}
 				]
 			}
@@ -479,14 +198,6 @@
 				"tab_name": "在线影视",
 				"upper_right_corner": {},
 				"details": [
-					{
-						"title": "BTNULL 无名小站",
-						"url": "https://www.btnull.org",
-						"icon": "https://img.fre123.com/i/2023/11/25/6561ae014e2de.png",
-						"description": "简单注册下，即可在线观看&下载影视资源，总体体验还是挺良心的",
-						"suffix": true,
-						"is_show": true
-					},
 					{
 						"title": "JoJo 影视",
 						"url": "https://jiohub.top",
@@ -545,14 +256,6 @@
 						"is_show": true
 					},
 					{
-						"title": "好看123",
-						"url": "https://haokan123.icu/",
-						"icon": "https://img.fre123.com/i/2023/12/13/6579cc2dab874.png",
-						"description": "VIP电影最新电视剧综艺在线免费观看",
-						"suffix": true,
-						"is_show": true
-					},
-					{
 						"title": "新视觉影院",
 						"url": "https://www.6080yy4.com",
 						"icon": "https://img.fre123.com/i/2024/02/19/65d22b0edebfe.ico",
@@ -567,120 +270,6 @@
 						"description": "提供最新动漫番剧、电影、电视剧、综艺蓝光资源免费在线观看服务，不卡无广告，每天第一时间更新！",
 						"suffix": true,
 						"is_show": true
-					},
-					{
-						"title": "鱼塘社影视",
-						"url": "https://tv.yutangshe.com/",
-						"icon": "https://img.fre123.com/i/2024/02/21/65d5fae48a37b.png",
-						"description": "鱼塘社影视为您提供2023最新电视剧、最新电影、动漫番剧、学习课程，蓝光视频免费在线观看服务，无广告不卡，每天第一时间更新",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "大米星球",
-						"url": "https://dmflm.com/",
-						"icon": "https://img.fre123.com/i/2023/12/14/657b1c91ce756.png",
-						"description": "免费高清电影大全",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "555电影",
-						"url": "https://5look.site/",
-						"icon": "https://img.fre123.com/i/2023/12/14/657b21e08c6f0.png",
-						"description": "每天更新热火欧美日韩剧",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "爱看影院",
-						"url": "https://www.3ayy.com/",
-						"icon": "https://img.fre123.com/i/2024/02/21/65d602f8a6edb.png",
-						"description": "爱看影院为您提供最新电影电视剧免费在线观看,热门综艺节目,动漫新番,最新电影预告等,每日更新最新电影、最新电视剧、电影下载、动漫,喜欢看电影就上爱看影视",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "乐子剧",
-						"url": "https://leziju.com/",
-						"icon": "https://img.fre123.com/i/2024/01/30/65b7da6163230.ico",
-						"description": "乐子剧leziju是一个免费网络短剧在线播放平台",
-						"suffix": true,
-						"is_show": false
-					},
-					{
-						"title": "臭蛋蛋影视",
-						"url": "https://cddys.me/",
-						"icon": "https://img.fre123.com/i/2024/02/18/65d22971ebce9.png",
-						"description": "臭蛋蛋影视-最全电影、电视剧、综艺、动漫、纪录片高清，蓝光影视随心看！",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "在线之家",
-						"url": "https://www.zxzjhd.com/",
-						"icon": "https://img.fre123.com/i/2024/01/06/659830c0e152c.png",
-						"description": "在线观看最新美剧|最新韩剧|天天美剧|人人美剧",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "看片狂人",
-						"url": "https://www.kpkuang.one/",
-						"icon": "https://img.fre123.com/i/2024/02/21/65d5f44d29369.ico",
-						"description": "看片狂人是一个为影迷剧迷朋友们建立的可免费在线观看,免费超前点播,下载高清视频资源的网站,每日收集全网最新的电影,电视剧,动漫,综艺,日剧,韩剧,美剧等高清资源供网友免费观看和下载。",
-						"suffix": true,
-						"is_show": true
-					},
-
-					{
-						"title": "影搜",
-						"url": "https://影搜.com/",
-						"icon": "https://img.fre123.com/i/2024/01/05/6597be6706aee.png",
-						"description": "全网海量影片数据",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "视频啦",
-						"url": "https://www.shipinla.com/",
-						"icon": "https://img.fre123.com/i/2024/02/21/65d5f57181748.png",
-						"description": "网站以分享最新剧情为宗旨，集电影剧情介绍、电视剧分集剧情、演员表、影视资源的网站为一体综合型网站。",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "影视搜索引擎",
-						"url": "https://ys.urlsdh.com/so/",
-						"icon": "https://img.fre123.com/i/2024/01/15/65a421c243f94.ico",
-						"description": "影视搜索引擎",
-						"suffix": true,
-						"is_show": false
-					},
-					{
-						"title": "腐剧TV",
-						"url": "https://fujumtv.com/",
-						"icon": "https://img.fre123.com/i/2024/01/06/65982b424d966.png",
-						"description": "最新腐剧在线观看",
-						"suffix": true,
-						"is_show": false
-					},
-
-					{
-						"title": "榜一短剧 🪜",
-						"url": "https://duanju.one/",
-						"icon": "https://img.fre123.com/i/2024/01/05/6597c0b5e3940.png",
-						"description": "各大平台热播短剧",
-						"suffix": true,
-						"is_show": false
-					},
-					{
-						"title": "素白白影视 🪜",
-						"url": "https://subaibai.vip/",
-						"icon": "https://img.fre123.com/i/2024/01/06/65982a748d7cf.png",
-						"description": "提供最新最全的电视剧电影在线观看",
-						"suffix": true,
-						"is_show": false
 					}
 				]
 			},
@@ -688,6 +277,14 @@
 				"tab_name": "电影世界",
 				"upper_right_corner": {},
 				"details": [
+					{
+						"title": "BTNULL 无名小站",
+						"url": "https://www.btnull.org",
+						"icon": "https://img.fre123.com/i/2023/11/25/6561ae014e2de.png",
+						"description": "简单注册下，即可在线观看&下载影视资源，总体体验还是挺良心的",
+						"suffix": true,
+						"is_show": true
+					},
 					{
 						"title": "影搜",
 						"url": "https://影搜.com/",
