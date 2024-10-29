@@ -1,25 +1,19 @@
 {
 	"base": {
-		"app_name": "FRE123",
-		"web_host": "https://www.fre123.com",
-		"logo": "https://img.fre123.com/i/2023/11/25/65619e8022505.png"
+		"app_name": "Free",
+		"web_host": "",
+		"logo": "qn40o-mb1b9-001.ico"
 	},
 	"seo": {
-		"title": "FRE123 免费资源共享平台",
-		"description": "FRE123 专注于为您提供各种免费优质资源，包括影视资源、动漫番剧、软件工具等。无论您在寻找哪种资源，我们都将尽力为您提供，为您的学习或工作助力",
-		"keywords": "FRE123, 免费资源, 优质资源, 资源聚合, 在线资源, 影视资源, 动漫番剧, 软件工具, 网盘资源",
-		"icon": "https://img.fre123.com/i/2023/11/25/65619e791f166.ico"
+		"title": "Free",
+		"description": "影视资源、动漫番剧、软件工具等",
+		"keywords": "免费资源, 优质资源, 资源聚合, 在线资源, 影视资源, 动漫番剧, 软件工具, 网盘资源",
+		"icon": "qn40o-mb1b9-001.ico"
 	},
 	"header": {
 		"search": {
-			"is_show": true,
+			"is_show": false,
 			"list": [
-				{
-					"name": "百度",
-					"url": "https://www.baidu.com/s?wd=",
-					"icon": "https://img.fre123.com/i/2023/11/26/656303de24efc.png",
-					"placeholder": "百度一下，你就知道"
-				},
 				{
 					"name": "谷歌",
 					"url": "https://www.google.com/search?q=",
@@ -35,7 +29,7 @@
 			]
 		},
 		"right": {
-			"is_show": true,
+			"is_show": false,
 			"group": {
 				"name": "热点榜单",
 				"url": "https://www.fre123.com/news",
@@ -57,7 +51,7 @@
 		}
 	},
 	"pendant": {
-		"is_show": true,
+		"is_show": false,
 		"list": [
 			{
 				"icon_class": "fab fa-weixin",
@@ -90,7 +84,7 @@
 	},
 	"footer": {
 		"right": {
-			"is_show": true,
+			"is_show": false,
 			"list": [
 				{
 					"icon_class": "fas fa-comment-dots",
