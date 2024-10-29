@@ -76,12 +76,6 @@
 				"is_show": true
 			},
 			{
-				"name": "樱花动漫",
-				"url": "https://www.iyhdmm.com/s_all?ex=1&kw={keyword}",
-				"icon": "https://img.fre123.com/i/2023/11/25/6561b85abc481.png",
-				"is_show": true
-			},
-			{
 				"name": "稀饭动漫",
 				"url": "https://dick.xfani.com/search/wd/{keyword}",
 				"icon": "https://dick.xfani.com/upload/site/20240308-1/813e41f81d6f85bfd7a44bf8a813f9e5.png",
