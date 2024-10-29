@@ -68,7 +68,7 @@
 	"anime": {
 		"name": "番剧",
 		"is_show": true,
-		"list": [
+		"list": [	
 			{
 				"name": "AGE 动漫",
 				"url": "https://www.agedm.org/search?query={keyword}",
@@ -82,40 +82,10 @@
 				"is_show": true
 			},
 			{
-				"name": "怡萱动漫",
-				"url": "https://www.iyxdm.cc/search.html?title={keyword}",
-				"icon": "https://img.fre123.com/i/2023/11/25/6561b8916d0e7.jpg",
+				"name": "稀饭动漫",
+				"url": "https://dick.xfani.com/search/wd/{keyword}",
+				"icon": "https://dick.xfani.com/upload/site/20240308-1/813e41f81d6f85bfd7a44bf8a813f9e5.png",
 				"is_show": true
-			},
-			{
-				"name": "E站",
-				"url": "https://www.ezdmw.site/Index/search.html?searchText={keyword}",
-				"icon": "https://img.fre123.com/i/2023/12/13/6579a72d755f8.png",
-				"is_show": true
-			},
-			{
-				"name": "蜜糖动漫",
-				"url": "https://www.mitang.tv/mitang-s/wd/{keyword}",
-				"icon": "https://img.fre123.com/i/2024/02/21/65d60ba7f0742.webp",
-				"is_show": true
-			},
-			{
-				"name": "bimi 动漫",
-				"url": "http://www.bimiacg10.net/vod/search/wd/{keyword}",
-				"icon": "https://img.fre123.com/i/2023/12/14/6579d63c89c74.png",
-				"is_show": true
-			},
-			{
-				"name": "异世界动漫",
-				"url": "https://www.mikudm.com/index.php/vod/search.html?wd={keyword}",
-				"icon": "https://img.fre123.com/i/2023/11/25/6561b8a56cb6e.png",
-				"is_show": true
-			},
-			{
-				"name": "风车动漫",
-				"url": "https://dm530.org/search?q={keyword}",
-				"icon": "https://img.fre123.com/i/2023/12/13/6579a6860c978.ico",
-				"is_show": false
 			}
 		]
 	},
@@ -185,6 +155,12 @@
 		"is_show": true,
 		"list": [
 			{
+				"name": "Z-Libray",
+				"url": "https://zh.z-lib.gs/s/{keyword}?",
+				"icon": "https://zh.z-lib.gs/favicon-32x32.svg?v=2",
+				"is_show": true
+			},
+			{
 				"name": "微信读书",
 				"url": "https://weread.qq.com/web/search/books?keyword={keyword}",
 				"icon": "https://img.fre123.com/i/2024/02/21/65d4ed7d38bd2.ico",
@@ -197,33 +173,9 @@
 				"is_show": true
 			},
 			{
-				"name": "Liber3",
-				"url": "https://liber3.eth.limo/#/search?q={keyword}",
-				"icon": "https://img.fre123.com/i/2024/02/21/65d4eefd181f7.ico",
-				"is_show": true
-			},
-			{
 				"name": "安娜的档案",
 				"url": "https://zh.annas-archive.org/search?q={keyword}",
 				"icon": "https://img.fre123.com/i/2024/02/22/65d75d4d42da8.png",
-				"is_show": true
-			},
-			{
-				"name": "SoBooks",
-				"url": "https://sobooks.net/search/{keyword}",
-				"icon": "https://img.fre123.com/i/2024/02/22/65d75a52a7fcc.ico",
-				"is_show": true
-			},
-			{
-				"name": "搬书匠",
-				"url": "http://www.banshujiang.cn/e_books/search/page/1?searchWords={keyword}",
-				"icon": "https://img.fre123.com/i/2024/02/21/65d5f4f51c928.ico",
-				"is_show": true
-			},
-			{
-				"name": "书葵网",
-				"url": "https://www.shukui.net/so/search.php?q={keyword}",
-				"icon": "https://img.fre123.com/i/2024/02/19/65d22d38f2c44.ico",
 				"is_show": true
 			}
 		]
